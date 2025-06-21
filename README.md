@@ -24,7 +24,7 @@ Quiz/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone[https://github.com/Shreyanshkapoor/Quiz-With-Counter.git]
    ```
 
 2. Open the project folder and launch `index.html` in your browser:
@@ -35,4 +35,4 @@ Quiz/
 
 ## 🙋‍♂️ Author
 
-- **Your Name** - [Shreyansh Kapoor](https://github.com/your-username)
+- **Your Name** - [Shreyansh Kapoor](https://github.com/Shreyanshkapoor)
